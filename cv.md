@@ -21,7 +21,8 @@ Skype: Polina Lobovich
 + Basic proficiency in programming languages, such as Java, C ++ and VBA.
 + Experience with Internet technologies: J2EE, Hibernate.
 + Knowledge of the Microsoft Office package.
-+ Experience with MySQL DBMS, unified modeling language UML. ● Development environments: IntelliJ IDEA, Visual Studio, Rational Rose.
++ Experience with MySQL DBMS, unified modeling language UML. 
++ Development environments: IntelliJ IDEA, Visual Studio, Rational Rose.
 + Proficiency in English at the Intermediate level (B1).
 **Personal qualities:**
  Proactive, creative, not afraid of difficulties, stress-resistant, 
